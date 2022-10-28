@@ -8,8 +8,8 @@ My name is Michael, I'm software developer from Saint Petersburg. At the moment 
 <p align="center">
   <table>
     <tr>
-      <td><img width="550px" align="left" src="https://github-readme-streak-stats.herokuapp.app/api?username=Purposelessness&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true&hide_border=true&hide_title=true" /></td>
-      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purposelessness&layout=compact&langs_count=6&theme=blueberry&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&hide_title=true" /></td>
+      <td><img width="550px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Purposelessness&theme=blueberry&hide_border=true&hide_title=true" /></td>
+      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/username=Purposelessness&layout=compact&langs_count=6&theme=blueberry&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&hide_title=true" /></td>
     </tr>   
   </table>
 </p>

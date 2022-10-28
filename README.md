@@ -2,11 +2,11 @@
 My name is Michael, I'm software developer from Saint Petersburg. At the moment I am studying at the St. Petersburg Electrotechnical University "LETI".
 
 ### 🔧 Tech Stack
-![](https://img.shields.io/badge/C-informational?style=flat-square&logo=c&logoColor=white&color=5194f0&bgcolor=110d17)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
+![](https://img.shields.io/badge/C-informational?style=flat-square&logo=c&logoColor=white&color=5194f0&bgcolor=81a9fe)
+![](https://img.shields.io/badge/Cpp-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=5194f0&bgcolor=110d17) 
+![](https://img.shields.io/badge/Qt-informational?style=flat-square&logo=Qt&logoColor=white&color=5194f0&bgcolor=110d17)
+![](https://img.shields.io/badge/csharp-informational?style=flat-square&logo=c-sharp&logoColor=white&color=5194f0&bgcolor=110d17)
+![](https://img.shields.io/badge/latex-informational?style=flat-square&logo=latex&logoColor=white&color=5194f0&bgcolor=110d17)
 
 ### 📊 GitHub Stats
 <p align="center">

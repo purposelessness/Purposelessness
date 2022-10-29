@@ -1,5 +1,5 @@
 ### 👋 Hello there!
-My name is Michael, I'm software developer from Saint Petersburg. At the moment I am studying at the St. Petersburg Electrotechnical University "LETI".
+My name is Michael, I'm software engineer from Saint Petersburg. At the moment I am studying at the St. Petersburg Electrotechnical University "LETI".
 
 ### 🔧 Tech Stack
 ![](https://img.shields.io/badge/C-informational?style=flat-square&logo=c&logoColor=white&color=5194f0&bgcolor=81a9fe)

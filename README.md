@@ -7,7 +7,7 @@ My name is Michael, I'm software engineer from Saint Petersburg. At the moment I
 ![](https://img.shields.io/badge/Qt-informational?style=flat-square&logo=Qt&logoColor=white&color=5194f0&bgcolor=81a9fe)
 ![](https://img.shields.io/badge/C%23-informational?style=flat-square&logo=c-sharp&logoColor=white&color=5194f0&bgcolor=81a9fe)
 ![](https://img.shields.io/badge/Unity-informational?style=flat-square&logo=unity&logoColor=white&color=5194f0&bgcolor=81a9fe)
-![](https://img.shields.io/badge/LaTeX-informational?style=flat-square&logo=latex&logoColor=white&color=5194f0&bgcolor=81a9fe)
+<!-- ![](https://img.shields.io/badge/LaTeX-informational?style=flat-square&logo=latex&logoColor=white&color=5194f0&bgcolor=81a9fe) -->
 
 ### 📊 GitHub Stats
 <p align="center">

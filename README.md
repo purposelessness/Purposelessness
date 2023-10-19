@@ -4,7 +4,6 @@ My name is Michael, I'm software engineer from Saint Petersburg. At the moment I
 ### 🔧 Tech Stack
 ![](https://img.shields.io/badge/C-informational?style=flat-square&logo=c&logoColor=white&color=5194f0&bgcolor=81a9fe)
 ![](https://img.shields.io/badge/C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=5194f0&bgcolor=81a9fe) 
-![](https://img.shields.io/badge/C%23-informational?style=flat-square&logo=c-sharp&logoColor=white&color=5194f0&bgcolor=81a9fe)
 ![](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
 
 ### 📊 GitHub Stats
